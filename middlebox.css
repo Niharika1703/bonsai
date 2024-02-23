@@ -1,0 +1,109 @@
+.workflow{
+    /* display: flex; */
+    width: 500px;
+    height: 650px;
+    border: solid;
+    /* background-color: red; */
+    margin-top: 2%;
+}
+/* .left{
+    margin-left: 20px;
+} */
+span{
+    font-size: 50px;
+}
+.in{
+    display: flex;
+}
+.dollar{
+    font-size: 25px;
+}
+ul{
+    
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 70px;
+}
+.btn1{
+    
+       
+    margin-left: 35%;
+    padding-top: 50px;
+    /* width: 50%;
+    height: 40%; */
+    
+}
+.workflow-plus{
+    border: solid;
+    width: 500px;
+    height: 650px;
+    margin-top: 10px;
+   
+    
+}
+span{
+    font-size: 50px;
+}
+.out{
+    display: flex;
+}
+.dollar{
+    font-size: 25px;
+}
+.m1{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    padding: 40px;
+}
+/* .body{
+
+} */
+.add-one{
+    text-align: center;
+    margin-top: 80px;
+   font-size: 25px;
+}
+.point{
+    margin-left: 60px;
+}
+.point1{
+    margin-left: 60px;
+}
+/* .body{
+    margin-bottom: 20px;
+} */
+.collaborators{
+    /* border: solid; */
+    width: 1617px;
+    margin-left: 20px;
+    font-size: medium;
+}
+.h1{
+    border: solid;
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.h2{
+    display: flex;
+    border: solid;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.n1{
+   margin-left: 1300px;
+}
+.partners{
+    margin-left: 20px;
+}
+.h3{
+    display: flex;
+    border: solid;
+    margin: 50px;
+    margin: 50px;
+}
+.n2{
+    margin-left: 1300px;
+}
